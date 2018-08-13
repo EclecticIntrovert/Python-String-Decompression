@@ -1,3 +1,3 @@
 # Python-String-Decompression
 
-String decompression program written in Python
+String decompression program written in Python.
